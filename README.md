@@ -1,4 +1,10 @@
-
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="center">Hi 👋, I'm Nguyen Hoang</h1>
+<p align="center">
+  <h3 align="center">✍ I'm a student of: [Ho Chi Minh City University of Technology](https://hcmut.edu.vn)  </h3>
+</p>
+ 
+<br />
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012689749076) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hoang-ho-150834263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC9nxKGlotgYyHkTh24nDISw) 
 
