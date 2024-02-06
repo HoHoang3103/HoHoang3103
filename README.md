@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Hoang</h1>
+<h1 align="center">Hi 👋, I'm Ho Hoang</h1>
 <h3 align="center">I'am a student of Ho Chi Minh City University of Technology</h3>
 
 ## 🌐 Socials:
