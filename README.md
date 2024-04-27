@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ho Hoang</h1>
-<h3 align="center">I'am a junior student of Ho Chi Minh City University of Technology</h3>
+<h3 align="center">I'am a junior student at Ho Chi Minh City University of Technology</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100012689749076) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-ho-150834263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC9nxKGlotgYyHkTh24nDISw) 
